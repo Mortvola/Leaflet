@@ -35,8 +35,7 @@
   "files": [
     "dist",
     "src",
-    "!dist/leaflet.zip",
-    "build"
+    "!dist/leaflet.zip"
   ],
   "scripts": {
     "prepublish": "npm run build",
