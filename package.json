@@ -1,6 +1,6 @@
 {
-  "name": "leaflet",
-  "version": "1.7.1",
+  "name": "@mortvola/leaflet",
+  "version": "1.7.1.0",
   "homepage": "https://leafletjs.com/",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
@@ -29,6 +29,9 @@
     "sinon": "^7.5.0",
     "ssri": "^8.0.0",
     "uglify-js": "^3.10.3"
+  },
+  "publishConfig": {
+    "@mortvola:registry": "https://npm.pkg.github.com"
   },
   "main": "dist/leaflet-src.js",
   "style": "dist/leaflet.css",
