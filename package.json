@@ -1,6 +1,6 @@
 {
   "name": "@mortvola/leaflet",
-  "version": "1.7.1.0",
+  "version": "1.7.1-patch1",
   "homepage": "https://leafletjs.com/",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
